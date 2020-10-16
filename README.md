@@ -1,2 +1,2 @@
 # sesame
-A  basic tool to know what ports are open on a specific host
+A  basic tool to know which ports are open on a specific host
